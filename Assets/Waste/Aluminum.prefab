@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2321432927423883846}
   - component: {fileID: 5509215978022668188}
-  - component: {fileID: 8848984214137307894}
+  - component: {fileID: 3393022950883314010}
   m_Layer: 0
   m_Name: Aluminum
   m_TagString: aluminum
@@ -31,7 +31,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &5509215978022668188
 SpriteRenderer:
@@ -85,7 +85,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &8848984214137307894
+--- !u!114 &3393022950883314010
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -94,8 +94,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 3617384436487271278}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 385af78ef06e33940965665d8b1b7b96, type: 3}
+  m_Script: {fileID: 11500000, guid: d2f060befe3d60546b5655415e12104f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 7.5
   moving: 1

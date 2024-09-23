@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Waste : MonoBehaviour
+public class RecreatedWaste : MonoBehaviour
 {
     public float speed;
     public bool moving;

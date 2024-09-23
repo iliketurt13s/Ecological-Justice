@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LogicManager : MonoBehaviour
+public class RecreatedLogicManager : MonoBehaviour
 {
     [HideInInspector] public float score;
     public float spawnCooldownStart;
